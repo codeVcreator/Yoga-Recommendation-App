@@ -20,9 +20,22 @@ body {
   color: orange;
 }
 
+.nav-logo-container {
+  max-width: 150px;
+  height: 100%;
+  flex: 0 0 auto;
+}
+
+.nav-logo-img {
+  height: 100%;
+  width: 100%;
+  padding: 15px 0px;
+}
+
 .nav-content {
   display: flex;
   height: 100%;
+  gap: 25px;
   justify-content: space-between;
   align-items: center;
   margin: 0 15px;

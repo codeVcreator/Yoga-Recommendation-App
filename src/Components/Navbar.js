@@ -4,7 +4,7 @@ const navbar = () => {
             <nav id="navbar">
                 <div className="container nav-content">
                     <div className="nav-logo-container">
-                        <img src="https://cdn.prod.website-files.com/67691f03eb5bfa3289b3daed/67691f03eb5bfa3289b3e2ad_Shvasa%20Logo.png" alt="Shvasa-logo" />
+                        <img className="nav-logo-img" src="https://cdn.prod.website-files.com/67691f03eb5bfa3289b3daed/67691f03eb5bfa3289b3e2ad_Shvasa%20Logo.png" alt="Shvasa-logo" />
                     </div>
                     <div>
                         <a href="/" className="nav-item">Home</a>
